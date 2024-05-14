@@ -1,0 +1,8 @@
+[submodule "rails-backend"]
+	path = rails-backend
+	url = https://github.com/uos-darwin23-gamify/rails-backend.git
+	branch = main
+[submodule "realtime-backend"]
+	path = realtime-backend
+	url = https://github.com/uos-darwin23-gamify/realtime-backend.git
+	branch = main
